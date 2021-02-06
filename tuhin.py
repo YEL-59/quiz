@@ -10,6 +10,7 @@ print('\n\t\t > Press your id(last 3 digits)to start the game')
 print('\n\t\t >  press your id(first 3 digit)to know the rules ')
 print('\n\t\t________________________________________')
 print('\n\t\t________________________________________')
+print('\n\t\t________________________________________')
 
 
 rule = int(input('enter pass-code:'))
