@@ -6,7 +6,7 @@ print('\n\t\t\t   THE GAME ')
 print('\n\t\t________________________________________')
 print('\n\t\t________________________________________')
 print('\n\t\t   BECOME A MILLIONAIRE!!!!!!!!!!!   ')
-print('\n\t\t > Press your id(last 3 digits)to start the game')
+print('\n\t\t > Press your id(last 3 digits)to start the game')#123444its like id number
 print('\n\t\t >  press your id(first 3 digit)to know the rules ')
 print('\n\t\t________________________________________')
 print('\n\t\t________________________________________')
